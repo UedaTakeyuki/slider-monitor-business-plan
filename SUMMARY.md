@@ -1,5 +1,5 @@
 # Summary
 
-* [要約](summary.md)
+* [要約](summarize.md)
 * [Introduction](README.md)
 
